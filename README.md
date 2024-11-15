@@ -29,7 +29,7 @@ This web application allows users to search for song lyrics from around the worl
 
 You can try the live version of this project here:  
 **[Live Project Link](https://harshraj1695.github.io/findmy-Lyrics/)**  
-(Replace with your actual project URL)
+
 
 ## Tech Stack
 
