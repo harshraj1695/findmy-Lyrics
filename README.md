@@ -4,6 +4,9 @@
 
 This web application allows users to search for song lyrics from around the world by entering the song name and artist in the format "artist - song". The app fetches lyrics using the **Lyrics.ovh API** and displays them on the page.
 
+**Note**: Since the Lyrics.ovh API is a public API, it may not have all song lyrics in its database. Some lyrics, especially from specific genres or less popular songs, may not be available.
+
+
 ## Features
 
 - Search for song lyrics by entering the song name and artist.
@@ -23,7 +26,7 @@ This web application allows users to search for song lyrics from around the worl
 ## Live Demo
 
 You can try the live version of this project here:  
-**[Live Project Link](https://your-live-project-link.com)**  
+**[Live Project Link](https://harshraj1695.github.io/findmy-Lyrics/)**  
 (Replace with your actual project URL)
 
 ## Tech Stack
