@@ -40,4 +40,4 @@ If you want to run this project locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/song-lyrics-finder.git
+   git clone https://github.com/harshraj1695/findmy-Lyrics.git
