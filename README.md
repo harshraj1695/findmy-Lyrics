@@ -23,6 +23,8 @@ This web application allows users to search for song lyrics from around the worl
 
 3. The song lyrics will appear below the search bar if available. Otherwise, a message will appear saying no lyrics are found.
 
+   > **Note**: If lyrics are not found for a song, please check the title for correctness or try a different song. The Lyrics.ovh API does not have lyrics for all songs, and some titles may not be recognized.
+
 ## Live Demo
 
 You can try the live version of this project here:  
